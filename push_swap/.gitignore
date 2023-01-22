@@ -1,0 +1,15 @@
+.DS_Store
+*temp*
+*tmp*
+#*test*
+*.out
+subject
+*.o
+#*.txt
+.vscode/
+*.a
+push_swap
+checker
+#checker_Mac
+#checker_linux
+./idea
